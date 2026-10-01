@@ -28,7 +28,7 @@
         "prod": "encore production --progress"
     },
     "dependencies": {
-    	"typed.js": "^2.0",
+        "typed.js": "^2.0",
         "@glitchr/izitoastr": "^1.0",
         "@glitchr/media-query-plugin": "^1.5",
         "@glitchr/reading-bar": "^1.0",
@@ -52,7 +52,7 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "git@gitlab.glitchr.dev:web/latoucheoriginale.git"
+        "url": "git+https://github.com/glitchr-studio/symfony-demo-workflow.git"
     },
     "author": "Glitch Art <support@glitchr.io>",
     "description": "",
